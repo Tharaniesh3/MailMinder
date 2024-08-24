@@ -10,7 +10,7 @@ MailMinder is an intuitive email management application designed to help users s
 - **Automated Follow-Ups:** Automatically sends follow-up emails based on predefined conditions.
 - **Customizable Notifications:** Receive notifications for critical emails and scheduled reminders.
 
-![MailMinder Screenshot](./path/to/mailminder-screenshot.png)
+![MailMinder](https://raw.githubusercontent.com/Tharaniesh3/MailMinder/main/mailminder.png)
 
 
 
