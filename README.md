@@ -17,5 +17,5 @@ MailMinder is an intuitive email management application designed to help users s
 
 ## Contact
 
-For any questions or inquiries, please reach out to [your.email@example.com](mailto:your.email@example.com).
+For any questions or inquiries, please reach out to [Tharaniesh](https://www.instagram.com/imthaxx/).
 
